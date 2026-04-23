@@ -1,4 +1,4 @@
-# Healthcare Provider Fraud Detection - Phase 1
+# Healthcare Provider Fraud Detection 
 
 This project explores healthcare provider fraud detection using classical machine learning on aggregated claims and beneficiary data. The notebook walks through the full Phase 1 workflow: loading raw data, performing exploratory analysis, engineering provider-level features, training baseline models, and comparing results.
 
